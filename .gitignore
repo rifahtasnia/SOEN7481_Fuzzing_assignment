@@ -2,6 +2,7 @@
 .env
 .venv
 .xml
+.coverage
 
 __pycache__/
 .ipynb_checkpoints/

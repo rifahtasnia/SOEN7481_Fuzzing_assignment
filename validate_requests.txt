@@ -1,0 +1,485 @@
+Error for input:
+
+'http:/example.com'
+
+Error: Invalid URL 'http:/example.com': No host supplied
+Error for input:
+
+'http:/exaple.com'
+
+Error: Invalid URL 'http:/exaple.com': No host supplied
+Error for input:
+
+'h.ttp:/exaple.com'
+
+Error: No connection adapters were found for 'h.ttp:/exaple.com'
+Error for input:
+
+'http:/example.com6'
+
+Error: Invalid URL 'http:/example.com6': No host supplied
+Error for input:
+
+'http:/example.com6'
+
+Error: Invalid URL 'http:/example.com6': No host supplied
+Error for input:
+
+'http:/example.com6'
+
+Error: Invalid URL 'http:/example.com6': No host supplied
+Error for input:
+
+'h.tt!p:/exaple.com'
+
+Error: No connection adapters were found for 'h.tt!p:/exaple.com'
+Error for input:
+
+'moc.elpaxe/:ptth'
+
+Error: No connection adapters were found for 'moc.elpaxe/:ptth'
+Error for input:
+
+'moc.elpaxe/:ptth'
+
+Error: No connection adapters were found for 'moc.elpaxe/:ptth'
+Error for input:
+
+'http/:example.com6'
+
+Error: Invalid URL 'http/:example.com6': No scheme supplied. Perhaps you meant https://http/:example.com6?
+Error for input:
+
+'moc.elpaxe/:ptth'
+
+Error: No connection adapters were found for 'moc.elpaxe/:ptth'
+Error for input:
+
+'h.ttp:/*exaple.com,'
+
+Error: No connection adapters were found for 'h.ttp:/*exaple.com,'
+Error for input:
+
+'h.ttp:/exaple.cAom'
+
+Error: No connection adapters were found for 'h.ttp:/exaple.cAom'
+Error for input:
+
+'h.ttp:Mexaple.com'
+
+Error: No connection adapters were found for 'h.ttp:Mexaple.com'
+Error for input:
+
+'h.ttp:Mexaple.com#'
+
+Error: No connection adapters were found for 'h.ttp:Mexaple.com#'
+Error for input:
+
+'http:/ex)ample.com6'
+
+Error: Invalid URL 'http:/ex)ample.com6': No host supplied
+Error for input:
+
+'h.ttp:/exaple.c(omF'
+
+Error: No connection adapters were found for 'h.ttp:/exaple.c(omF'
+Error for input:
+
+'Y.ttp:/*exaple.com'
+
+Error: No connection adapters were found for 'Y.ttp:/*exaple.com'
+Error for input:
+
+'moc.elptxe/:path'
+
+Error: No connection adapters were found for 'moc.elptxe/:path'
+Error for input:
+
+'e.ttp:/exaplh.c(om'
+
+Error: No connection adapters were found for 'e.ttp:/exaplh.c(om'
+Error for input:
+
+'e.ttp:/exaplh.c(om'
+
+Error: No connection adapters were found for 'e.ttp:/exaplh.c(om'
+Error for input:
+
+'e.tt/:pexaplh.c(om'
+
+Error: No connection adapters were found for 'e.tt/:pexaplh.c(om'
+Error for input:
+
+'moc.elpaxe/4ptth'
+
+Error: Invalid URL 'moc.elpaxe/4ptth': No scheme supplied. Perhaps you meant https://moc.elpaxe/4ptth?
+Error for input:
+
+'http:/examle.com6'
+
+Error: Invalid URL 'http:/examle.com6': No host supplied
+Error for input:
+
+'h.tt!p:/elaple.com'
+
+Error: No connection adapters were found for 'h.tt!p:/elaple.com'
+Error for input:
+
+'e.ttp:/exaplh.cl(om'
+
+Error: No connection adapters were found for 'e.ttp:/exaplh.cl(om'
+Error for input:
+
+'http/:ex6mple.coma'
+
+Error: Invalid URL 'http/:ex6mple.coma': No scheme supplied. Perhaps you meant https://http/:ex6mple.coma?
+Error for input:
+
+'6moc.elmaxe/:ptth'
+
+Error: No connection adapters were found for '6moc.elmaxe/:ptth'
+Error for input:
+
+'hptt!p:/exa.le.com'
+
+Error: No connection adapters were found for 'hptt!p:/exa.le.com'
+Error for input:
+
+'moc.elptxe/:pathm'
+
+Error: No connection adapters were found for 'moc.elptxe/:pathm'
+Error for input:
+
+'moAc.elpaxe/:ptt.h'
+
+Error: No connection adapters were found for 'moAc.elpaxe/:ptt.h'
+Error for input:
+
+'http/:x6mple.coma'
+
+Error: Invalid URL 'http/:x6mple.coma': No scheme supplied. Perhaps you meant https://http/:x6mple.coma?
+Error for input:
+
+'h.ttpo/*exaple.c:m'
+
+Error: No connection adapters were found for 'h.ttpo/*exaple.c:m'
+Error for input:
+
+'moc.elpax?/:ptth'
+
+Error: No connection adapters were found for 'moc.elpax?/:ptth'
+Error for input:
+
+'http:/examle.,om6'
+
+Error: Invalid URL 'http:/examle.,om6': No host supplied
+Error for input:
+
+'http:/examle.,om6'
+
+Error: Invalid URL 'http:/examle.,om6': No host supplied
+Error for input:
+
+'hptt!p:/e.a.lexcom'
+
+Error: No connection adapters were found for 'hptt!p:/e.a.lexcom'
+Error for input:
+
+'h.tt:/*exaple.com'
+
+Error: No connection adapters were found for 'h.tt:/*exaple.com'
+Error for input:
+
+'http:/?xaple.com'
+
+Error: Invalid URL 'http:/?xaple.com': No host supplied
+Error for input:
+
+'h.t!p:/elaple.com'
+
+Error: No connection adapters were found for 'h.t!p:/elaple.com'
+Error for input:
+
+'hptt!p//exa.le.com'
+
+Error: Invalid URL 'hptt!p//exa.le.com': No scheme supplied. Perhaps you meant https://hptt!p//exa.le.com?
+Error for input:
+
+'h.t!p:/elap.elcom'
+
+Error: No connection adapters were found for 'h.t!p:/elap.elcom'
+Error for input:
+
+'http:/exaple.com'
+
+Error: Invalid URL 'http:/exaple.com': No host supplied
+Error for input:
+
+'hptt!p:/exa.el.com'
+
+Error: No connection adapters were found for 'hptt!p:/exa.el.com'
+Error for input:
+
+'a.ttp:/exhple.com'
+
+Error: No connection adapters were found for 'a.ttp:/exhple.com'
+Error for input:
+
+'a.ttp:/exhple.com'
+
+Error: No connection adapters were found for 'a.ttp:/exhple.com'
+Error for input:
+
+'.cttp:/*exaple.hom'
+
+Error: No connection adapters were found for '.cttp:/*exaple.hom'
+Error for input:
+
+'h.ttp:/exaplecom'
+
+Error: No connection adapters were found for 'h.ttp:/exaplecom'
+Error for input:
+
+'h.t!p:/elap.elcomj'
+
+Error: No connection adapters were found for 'h.t!p:/elap.elcomj'
+Error for input:
+
+'http:/exaple.com'
+
+Error: Invalid URL 'http:/exaple.com': No host supplied
+Error for input:
+
+'ptt!p:/exa.el.com'
+
+Error: No connection adapters were found for 'ptt!p:/exa.el.com'
+Error for input:
+
+'h.ttp:6/exaple.com'
+
+Error: No connection adapters were found for 'h.ttp:6/exaple.com'
+Error for input:
+
+'h.ttp:/*eQxaple.com,'
+
+Error: No connection adapters were found for 'h.ttp:/*eQxaple.com,'
+Error for input:
+
+'h.ttp:$*exaple.com,'
+
+Error: No connection adapters were found for 'h.ttp:$*exaple.com,'
+Error for input:
+
+'hptt!p:/exa.el.comK'
+
+Error: No connection adapters were found for 'hptt!p:/exa.el.comK'
+Error for input:
+
+'a.ttp:/7xhple.com'
+
+Error: No connection adapters were found for 'a.ttp:/7xhple.com'
+Error for input:
+
+'h.ttp:/xaple.com'
+
+Error: No connection adapters were found for 'h.ttp:/xaple.com'
+Error for input:
+
+'h.tt>:/exaple.cAom'
+
+Error: No connection adapters were found for 'h.tt>:/exaple.cAom'
+Error for input:
+
+'moc.elpxe/:ptth'
+
+Error: No connection adapters were found for 'moc.elpxe/:ptth'
+Error for input:
+
+'moc.elpaxeT/:ptth'
+
+Error: No connection adapters were found for 'moc.elpaxeT/:ptth'
+Error for input:
+
+'h.ttp:/exaple.cAom'
+
+Error: No connection adapters were found for 'h.ttp:/exaple.cAom'
+Error for input:
+
+'amoc.elpm6x:/ptth'
+
+Error: No connection adapters were found for 'amoc.elpm6x:/ptth'
+Error for input:
+
+'http:/ex.pleacom'
+
+Error: Invalid URL 'http:/ex.pleacom': No host supplied
+Error for input:
+
+'ttp:/exaple.com'
+
+Error: No connection adapters were found for 'ttp:/exaple.com'
+Error for input:
+
+'ht:p:/examle.com6'
+
+Error: No connection adapters were found for 'ht:p:/examle.com6'
+Error for input:
+
+'ht:p:/examle.com6`'
+
+Error: No connection adapters were found for 'ht:p:/examle.com6`'
+Error for input:
+
+'hptt!p:/pexa.el.comK'
+
+Error: No connection adapters were found for 'hptt!p:/pexa.el.comK'
+Error for input:
+
+'h.tp:/xaple.com'
+
+Error: No connection adapters were found for 'h.tp:/xaple.com'
+Error for input:
+
+'.cttp:/*exaple.homa'
+
+Error: No connection adapters were found for '.cttp:/*exaple.homa'
+Error for input:
+
+'h.t!p:/elap.elcom6'
+
+Error: No connection adapters were found for 'h.t!p:/elap.elcom6'
+Error for input:
+
+'moc.elpax/:pt.h'
+
+Error: No connection adapters were found for 'moc.elpax/:pt.h'
+Error for input:
+
+'moc.elpaxe*/:ptt.h'
+
+Error: No connection adapters were found for 'moc.elpaxe*/:ptt.h'
+Error for input:
+
+'h.ttp:/xple.com'
+
+Error: No connection adapters were found for 'h.ttp:/xple.com'
+Error for input:
+
+'ht:p:/examle.c]om6`'
+
+Error: No connection adapters were found for 'ht:p:/examle.c]om6`'
+Error for input:
+
+'ttp:/exa8ple.com'
+
+Error: No connection adapters were found for 'ttp:/exa8ple.com'
+Error for input:
+
+'http:/exple.com'
+
+Error: Invalid URL 'http:/exple.com': No host supplied
+Error for input:
+
+'http:/exple.com'
+
+Error: Invalid URL 'http:/exple.com': No host supplied
+Error for input:
+
+'e.ttp:/exaplhc.(om'
+
+Error: No connection adapters were found for 'e.ttp:/exaplhc.(om'
+Error for input:
+
+'amoh.elpaxe*/:pttc.'
+
+Error: No connection adapters were found for 'amoh.elpaxe*/:pttc.'
+Error for input:
+
+'moh.elpaxe*/:pttc.'
+
+Error: No connection adapters were found for 'moh.elpaxe*/:pttc.'
+Error for input:
+
+'mocaelp.xe/:ptth'
+
+Error: No connection adapters were found for 'mocaelp.xe/:ptth'
+Error for input:
+
+'Kmoc.le.axep/:p!ttph'
+
+Error: No connection adapters were found for 'Kmoc.le.axep/:p!ttph'
+Error for input:
+
+'http/x6mple.coma'
+
+Error: Invalid URL 'http/x6mple.coma': No scheme supplied. Perhaps you meant https://http/x6mple.coma?
+Error for input:
+
+'hptt!p:/pexa.el.cmoK'
+
+Error: No connection adapters were found for 'hptt!p:/pexa.el.cmoK'
+Error for input:
+
+'h.t!p:/plap.elcom'
+
+Error: No connection adapters were found for 'h.t!p:/plap.elcom'
+Error for input:
+
+'m:c.elpaxe/optth'
+
+Error: No connection adapters were found for 'm:c.elpaxe/optth'
+Error for input:
+
+'m:c.elpaxe/optth'
+
+Error: No connection adapters were found for 'm:c.elpaxe/optth'
+Error for input:
+
+'moc.elpaxe/:ptth]'
+
+Error: No connection adapters were found for 'moc.elpaxe/:ptth]'
+Error for input:
+
+'h.ttp:/exaple.cAyom'
+
+Error: No connection adapters were found for 'h.ttp:/exaple.cAyom'
+Error for input:
+
+'moc.elpxe:ptth'
+
+Error: No connection adapters were found for 'moc.elpxe:ptth'
+Error for input:
+
+'hptt!p:/pexa.el.cmoKc'
+
+Error: No connection adapters were found for 'hptt!p:/pexa.el.cmoKc'
+Error for input:
+
+'moc.elptxe/:pah'
+
+Error: No connection adapters were found for 'moc.elptxe/:pah'
+Error for input:
+
+'hptt!e:/pxa.el.comK'
+
+Error: No connection adapters were found for 'hptt!e:/pxa.el.comK'
+Error for input:
+
+'amoh.elpCaxe*/:pttc.'
+
+Error: No connection adapters were found for 'amoh.elpCaxe*/:pttc.'
+Error for input:
+
+'h.ttp:/*6exaple.com'
+
+Error: No connection adapters were found for 'h.ttp:/*6exaple.com'
+Error for input:
+
+'http:/?xaple.comI'
+
+Error: Invalid URL 'http:/?xaple.comI': No host supplied
+Error for input:
+
+'h.ttp:/exaple.c(omF4'
+
+Error: No connection adapters were found for 'h.ttp:/exaple.c(omF4'
